@@ -467,7 +467,7 @@ input[type="color"]:focus,
 */
 
 .signin{
-	padding: 12px 18px !important;
+	padding: 12px 28px !important;
 	margin-top: 18px;
 	margin-right: -2rem;
 	-webkit-border-radius: 4px;
@@ -488,7 +488,7 @@ input[type="color"]:focus,
 }
 
 .signup{
-	padding: 12px 18px !important;
+	padding: 12px 10px !important;
 	margin-top: 18px;
 	margin-right: -8px;
 	-webkit-border-radius: 4px;
