@@ -95,7 +95,7 @@
 <div id="content" style="margin-top: -81px">
     <div class="container">
 
-        <!-- begin:online exercise -->ss
+        <!-- begin:online exercise -->
         <div id="partner  exercise" class="exercise ">
             <div class="container">
                 <div class="row   header-row">
