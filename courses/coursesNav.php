@@ -29,7 +29,8 @@
 <!--header-->
 <div class="header">
     <div class="welcoming ">
-        <p class="register-header">به فروشگاه ما خوش آمدید<a href="register.html" class="signup" data-toggle="modal" data-target="#modal-signup">ثبت نام</a>
+        <p class="register-header">به فروشگاه ما خوش آمدید
+            <a href="register.html" class="signup" data-toggle="modal" data-target="#modal-signup">ثبت نام</a> |
             <a href="#modal-signin"  class="signin" data-toggle="modal" data-target="#modal-signin">ورود به سایت</a></p>
         <h3 class="header-name">آموزش خوشنویسی</h3>
         <div class="nav navbar-nav navbar-left header-two-left">
