@@ -9,15 +9,14 @@
     <meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1">
     <meta name="description" content="arillo is responsive html real estate theme">
     <meta name="author" content="afriq yasin ramadhan">
-    <link rel="shortcut icon" href="img/favicon.png">
     <script type="application/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false);
         function hideURLbar(){ window.scrollTo(0,1); } </script>
 
-    <title>Arillo</title>
+    <title>آموزش خوشنویسی</title>
 
     <!--js-->
     <script src="js/jquery-1.11.1.min.js"></script>
-    <script src="js/modernizr.custom.js"></script>
+<!--    <script src="js/modernizr.custom.js"></script>-->
     <!--//js-->
     <!-- Bootstrap core CSS -->
     <link href="css/bootstrap.css" rel="stylesheet">
