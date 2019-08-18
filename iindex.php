@@ -68,22 +68,22 @@
                 </div>
 
                 <div class="item">
-                    <img src="img/3.jpg" alt="Chicago" style="width:100%;">
+                    <img src="img/3.jpg"  style="width:100%;">
                 </div>
 
                 <div class="item">
-                    <img src="img/1.jpg" alt="New York" style="width:100%;">
+                    <img src="img/1.jpg"  style="width:100%;">
                 </div>
 
             </div>
 
             <!-- Left and right controls -->
             <a class="left carousel-control" href="#myCarousel" data-slide="prev">
-                <span class="glyphicon glyphicon-chevron-left"></span>
+                <span class="glyphicon glyphicon-chevron-right"></span>
                 <span class="sr-only">Previous</span>
             </a>
             <a class="right carousel-control" href="#myCarousel" data-slide="next">
-                <span class="glyphicon glyphicon-chevron-right"></span>
+                <span class="glyphicon glyphicon-chevron-left"></span>
                 <span class="sr-only">Next</span>
             </a>
         </div>
