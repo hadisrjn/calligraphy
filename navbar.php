@@ -36,7 +36,7 @@
             <div class="header-left cart">
                 <a href="#"><span class="glyphicon glyphicon-shopping-cart" aria-hidden="true"></span></a>
                 <h4><a href="pages/checkout.php">
-                        <span class="simpleCart_total"> $0.00 </span> (<span id="simpleCart_quantity" class="simpleCart_quantity"> 0 </span>)
+                        <span class="simpleCart_total"> 0,0 ریال </span> (<span id="simpleCart_quantity" class="simpleCart_quantity"> 0 </span>)
                     </a></h4>
                 <div class="cart-box">
                     <p><a href="pages/checkout.php" class="simpleCart_empty">
