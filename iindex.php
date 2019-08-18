@@ -118,7 +118,7 @@
                     <div class="col-md-3 col-sm-6 col-xs-12 tamrin wow fadeInUp animated" data-wow-delay=".5s">
                         <div class="property-container">
                             <div class="property-image">
-                                <a href="nastaligh.php"><img class="image-tamrin" src="img/نستعلیق.png"></a>
+                                <a href="courses/choose.php"><img class="image-tamrin" src="img/نستعلیق.png"></a>
                             </div>
                         </div>
                     </div>
@@ -126,7 +126,7 @@
                     <div class="col-md-3 col-sm-6 col-xs-12 tamrin wow fadeInUp animated" data-wow-delay=".5s">
                         <div class="property-container">
                             <div class="property-image">
-                                <a href="nastaligh.php"><img class="image-tamrin" src="img/نستعلیق.png"></a>
+                                <a href="courses/choose.php"><img class="image-tamrin" src="img/نستعلیق.png"></a>
                             </div>
                         </div>
                     </div>
@@ -134,7 +134,7 @@
                     <div class="col-md-3 col-sm-6 col-xs-12 tamrin">
                         <div class="property-container">
                             <div class="property-image">
-                                <a href="nastaligh.php"><img class="image-tamrin" src="img/نستعلیق.png"></a>
+                                <a href="courses/choose.php"><img class="image-tamrin" src="img/نستعلیق.png"></a>
                             </div>
                         </div>
                     </div>
