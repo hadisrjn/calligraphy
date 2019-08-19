@@ -63,7 +63,7 @@
         <div class="collapse navbar-collapse" id="navbar-top">
             <ul class="nav navbar-nav">
                 <li><a href="../iindex.php">صفحه اصلی</a></li>
-                <li><a href="#partner  exercise">تمرین آنلاین</a></li>
+                <li><a href="choose.php">تمرین آنلاین</a></li>
                 <li><a href="../pages/packages.php" >پکیج های آموزشی</a></li>
                 <li><a href="../pages/films.php" >فیلم های آموزشی</a></li>
             </ul>
@@ -116,13 +116,13 @@
             <div class="modal-body">
                 <form role="form">
                     <div class="form-group">
-                        <input type="ایمیل" class="form-control input-lg" placeholder="ایمیل">
+                        <input type="email" class="form-control input-lg" placeholder="ایمیل">
                     </div>
                     <div class="form-group">
-                        <input type="کلمه عبور" class="form-control input-lg" placeholder="کلمه عبور">
+                        <input type="password" class="form-control input-lg" placeholder="کلمه عبور">
                     </div>
                     <div class="form-group">
-                        <input type="تکرار کلمه عبور" class="form-control input-lg" placeholder="تکرار کلمه عبور">
+                        <input type="password" class="form-control input-lg" placeholder="تکرار کلمه عبور">
                     </div>
                     <div class="checkbox">
                         <label>

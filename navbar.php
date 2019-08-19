@@ -87,7 +87,7 @@
                     </div>
                     <div class="form-group">
                         <label for="password">کلمه عبور</label>
-                        <input type="password" class="form-control input-lg" placeholder="کلمه عبور">
+                        <input type="password" class="form-control input-lg" placeholder="کلمه عبور" >
                     </div>
                     <div class="checkbox">
                         <label>
@@ -116,13 +116,13 @@
             <div class="modal-body">
                 <form role="form">
                     <div class="form-group">
-                        <input type="ایمیل" class="form-control input-lg" placeholder="ایمیل">
+                        <input type="email" class="form-control input-lg" placeholder="ایمیل">
                     </div>
                     <div class="form-group">
-                        <input type="کلمه عبور" class="form-control input-lg" placeholder="کلمه عبور">
+                        <input type="password" class="form-control input-lg" placeholder="کلمه عبور">
                     </div>
                     <div class="form-group">
-                        <input type="تکرار کلمه عبور" class="form-control input-lg" placeholder="تکرار کلمه عبور">
+                        <input type="password" class="form-control input-lg" placeholder="تکرار کلمه عبور">
                     </div>
                     <div class="checkbox">
                         <label>
