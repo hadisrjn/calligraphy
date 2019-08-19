@@ -101,10 +101,18 @@ hr.line2{
 font-family:IRANSans_Light;
 }
 .navbar.navbar-default {
-    background: #fff;
+
     margin: 0;
     border-top: none;
-    min-height: 40px;
+    min-height: 59px;
+	background: rgba(243,226,199,1);
+	background: -moz-linear-gradient(left, rgba(243,226,199,1) 0%, rgba(193,158,103,1) 40%, rgba(182,141,76,1) 100%);
+	background: -webkit-gradient(left top, right top, color-stop(0%, rgba(243,226,199,1)), color-stop(40%, rgba(193,158,103,1)), color-stop(100%, rgba(182,141,76,1)));
+	background: -webkit-linear-gradient(left, rgba(243,226,199,1) 0%, rgba(193,158,103,1) 40%, rgba(182,141,76,1) 100%);
+	background: -o-linear-gradient(left, rgba(243,226,199,1) 0%, rgba(193,158,103,1) 40%, rgba(182,141,76,1) 100%);
+	background: -ms-linear-gradient(left, rgba(243,226,199,1) 0%, rgba(193,158,103,1) 40%, rgba(182,141,76,1) 100%);
+	background: linear-gradient(to right, rgba(243,226,199,1) 0%, rgba(193,158,103,1) 40%, rgba(182,141,76,1) 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f3e2c7', endColorstr='#b68d4c', GradientType=1 );
 }
 .navbar-left {
     margin-left: 0;
@@ -2380,6 +2388,7 @@ input[type="color"]:focus,
 		padding-bottom: 12px;
 		padding-right: 15px;
 		margin-right: -23px;
+		color: black !important;
 	}
 	.courses-row{
 		margin-left: 15rem;
