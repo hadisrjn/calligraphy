@@ -62,10 +62,10 @@
 
         <div class="collapse navbar-collapse" id="navbar-top">
             <ul class="nav navbar-nav">
-                <li><a href="../iindex.php">صفحه اصلی</a></li>
-                <li><a href="choose.php">تمرین آنلاین</a></li>
-                <li><a href="../pages/packages.php" >پکیج های آموزشی</a></li>
-                <li><a href="../pages/films.php" >فیلم های آموزشی</a></li>
+                <li><a href="../iindex.php" style="color: black;">صفحه اصلی</a></li>
+                <li><a href="choose.php" style="color: black;">تمرین آنلاین</a></li>
+                <li><a href="../pages/packages.php" style="color: black;" >پکیج های آموزشی</a></li>
+                <li><a href="../pages/films.php"style="color: black;" >فیلم های آموزشی</a></li>
             </ul>
         </div>
     </div>
