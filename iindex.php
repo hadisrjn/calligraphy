@@ -7,16 +7,16 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1">
-    <meta name="description" content="arillo is responsive html real estate theme">
-    <meta name="author" content="afriq yasin ramadhan">
-    <script type="application/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false);
+    <meta name="description" content="calligraphy site">
+
+    <script type="application/x-javascript"> addEventListexampner("load", function() { setTimeout(hideURLbar, 0); }, false);
         function hideURLbar(){ window.scrollTo(0,1); } </script>
 
     <title>آموزش خوشنویسی</title>
 
     <!--js-->
     <script src="js/jquery-1.11.1.min.js"></script>
-<!--    <script src="js/modernizr.custom.js"></script>-->
+
     <!--//js-->
     <!-- Bootstrap core CSS -->
     <link href="css/bootstrap.css" rel="stylesheet">
@@ -97,7 +97,7 @@
         <!-- begin:online exercise -->
         <div id="partner  exercise" class="exercise ">
             <div class="container">
-                <div class="row   header-row">
+                 <div class="row   header-row">
                     <div class="col-md-12">
                         <div class="title-info wow fadeInUp animated" data-wow-delay=".5s">
                           <h2 class="title">تمرین آنلاین</h2>
@@ -110,7 +110,7 @@
                     <div class="col-md-3 col-sm-6 col-xs-12 tamrin">
                         <div class="property-container">
                             <div class="property-image">
-                                <a href="courses/choose.php"><img class="image-tamrin" src="img/نستعلیق.png"></a>
+                                <a href="pages/choose.php"><img class="image-tamrin" src="img/نستعلیق.png"></a>
                             </div>
                         </div>
                     </div>
@@ -118,7 +118,7 @@
                     <div class="col-md-3 col-sm-6 col-xs-12 tamrin wow fadeInUp animated" data-wow-delay=".5s">
                         <div class="property-container">
                             <div class="property-image">
-                                <a href="courses/choose.php"><img class="image-tamrin" src="img/نستعلیق.png"></a>
+                                <a href="pages/choose.php"><img class="image-tamrin" src="img/نستعلیق.png"></a>
                             </div>
                         </div>
                     </div>
@@ -126,7 +126,7 @@
                     <div class="col-md-3 col-sm-6 col-xs-12 tamrin wow fadeInUp animated" data-wow-delay=".5s">
                         <div class="property-container">
                             <div class="property-image">
-                                <a href="courses/choose.php"><img class="image-tamrin" src="img/نستعلیق.png"></a>
+                                <a href="pages/choose.php"><img class="image-tamrin" src="img/نستعلیق.png"></a>
                             </div>
                         </div>
                     </div>
@@ -134,7 +134,7 @@
                     <div class="col-md-3 col-sm-6 col-xs-12 tamrin">
                         <div class="property-container">
                             <div class="property-image">
-                                <a href="courses/choose.php"><img class="image-tamrin" src="img/نستعلیق.png"></a>
+                                <a href="pages/choose.php"><img class="image-tamrin" src="img/نستعلیق.png"></a>
                             </div>
                         </div>
                     </div>
